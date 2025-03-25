@@ -11,7 +11,11 @@ CELL_WIDTH :: WIDTH / COLS
 CELL_HEIGHT :: HEIGHT / ROWS
 
 main :: proc() {
-	checker_example()
-	circle_example()
-	line_example()
+	triangle_example()
+	// checker_example()
+	// circle_example()
+	// line_example()
+	// circle_example_png()
+// p1,p2,p3 := sort_triangle_points_by_y({0,1},{2,3},{3,888})
+// fmt.println(p1,p2,p3)
 }
